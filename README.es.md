@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <h1>Hola, soy Elizabeth <img src="https://img.icons8.com/fluency/35/waving-hand.png" width="35"/></h1>
-  <h3>Desarrolladora Full Stack · QA Engineer · Graduada en Ciencias de la Computación</h3>
+  <h1>Hola, soy Elizabeth</h1>
+  <img src="./typing.es.svg" alt="Desarrolladora Full Stack · QA Engineer · Cs. de la Computación"/>
+  <br/><br/>
   <p>
     <a href="mailto:eli.carballo.2003@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,7 +21,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/user.png" width="28"/> Sobre mi
+## `$ sobre_mi`
 
 Desarrolladora Full Stack con sólidas habilidades de resolución de problemas y alto sentido de la responsabilidad. Cuento con una Licenciatura en Ciencias de la Computación y actualmente trabajo como **QA Engineer / Junior Developer** en **EzPraxis (EE. UU.)**, donde contribuyo a pruebas exploratorias, depuración de errores y desarrollo de funcionalidades.
 
@@ -28,7 +29,7 @@ Me apasiona construir software con impacto real y siempre busco oportunidades pa
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/laptop-coding.png" width="28"/> Stack Tecnológico
+## `$ stack_tecnologico`
 
 <div align="center">
 
@@ -65,18 +66,11 @@ Me apasiona construir software con impacto real y siempre busco oportunidades pa
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/certificate.png" width="28"/> Certificaciones
+## `$ certificaciones`
 
-<div align="center">
+**Lic. Ciencias de la Computación** — Universidad Central "Martha Abreu" de Las Villas `2021 – 2025`
 
-| Certificado | Plataforma | Enlace |
-|-------------|------------|--------|
-| SQL (Basic) | HackerRank | [Ver](https://www.hackerrank.com/certificates/50b467d92ddf) |
-| Python (Basic) | HackerRank | [Ver](https://www.hackerrank.com/certificates/1b3811a60017) |
-| Java (Basic) | HackerRank | [Ver](https://www.hackerrank.com/certificates/3a55432b19de) |
-| React (Basic) | HackerRank | [Ver](https://www.hackerrank.com/certificates/3e10513da75e) |
-
-</div>
+**HackerRank** — [SQL](https://www.hackerrank.com/certificates/50b467d92ddf) · [Python](https://www.hackerrank.com/certificates/1b3811a60017) · [Java](https://www.hackerrank.com/certificates/3a55432b19de) · [React](https://www.hackerrank.com/certificates/3e10513da75e)
 
 ---
 

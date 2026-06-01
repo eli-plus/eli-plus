@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm Elizabeth <img src="https://img.icons8.com/fluency/35/waving-hand.png" width="35"/></h1>
-  <h3>Full Stack Developer · QA Engineer · CS Graduate</h3>
+  <h1>Hi there, I'm Elizabeth</h1>
+  <img src="./typing.svg" alt="Full Stack Developer · QA Engineer · CS Graduate"/>
+  <br/><br/>
   <p>
     <a href="mailto:eli.carballo.2003@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,7 +21,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/user.png" width="28"/> About Me
+## `$ about_me`
 
 Full-stack developer with a strong foundation in problem-solving and a high sense of accountability. I hold a Bachelor's degree in Computer Science and currently work as a **QA Engineer / Junior Developer** at **EzPraxis (US)**, where I contribute to exploratory testing, debugging, and feature development.
 
@@ -28,7 +29,7 @@ I'm passionate about building meaningful software and always looking for opportu
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/laptop-coding.png" width="28"/> Tech Stack
+## `$ tech_stack`
 
 <div align="center">
 
@@ -65,18 +66,11 @@ I'm passionate about building meaningful software and always looking for opportu
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/certificate.png" width="28"/> Certifications
+## `$ certifications`
 
-<div align="center">
+**B.Sc. Computer Science** — Universidad Central "Martha Abreu" de Las Villas `2021 – 2025`
 
-| Certificate | Issuer | Link |
-|-------------|--------|------|
-| SQL (Basic) | HackerRank | [View](https://www.hackerrank.com/certificates/50b467d92ddf) |
-| Python (Basic) | HackerRank | [View](https://www.hackerrank.com/certificates/1b3811a60017) |
-| Java (Basic) | HackerRank | [View](https://www.hackerrank.com/certificates/3a55432b19de) |
-| React (Basic) | HackerRank | [View](https://www.hackerrank.com/certificates/3e10513da75e) |
-
-</div>
+**HackerRank** — [SQL](https://www.hackerrank.com/certificates/50b467d92ddf) · [Python](https://www.hackerrank.com/certificates/1b3811a60017) · [Java](https://www.hackerrank.com/certificates/3a55432b19de) · [React](https://www.hackerrank.com/certificates/3e10513da75e)
 
 ---
 
