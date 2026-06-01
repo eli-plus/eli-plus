@@ -30,6 +30,8 @@ Me apasiona construir software con impacto real y siempre busco oportunidades pa
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 **Lenguajes y Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,55 +58,21 @@ Me apasiona construir software con impacto real y siempre busco oportunidades pa
 ![Agile](https://img.shields.io/badge/Agile-Scrum-009FDA?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-Testing-green?style=for-the-badge)
 
----
-
-## 🚀 En qué estoy trabajando
-
-| Área | Estado |
-|------|--------|
-| 💼 QA Engineer & Junior Developer @ EzPraxis | 🟢 Activo |
-| 📊 Perfil y proyectos de Análisis de Datos | 🔄 En progreso |
-| 🤖 Aplicaciones con LLMs e IA | 🔄 En progreso |
-
----
-
-## 📂 Proyectos Destacados
-
-> *(Fija tus mejores repositorios y descríbelos brevemente aquí)*
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🏥 Microservicios en Salud | Arquitectura basada en microservicios para sistemas de salud (Tesis) | Python, FastAPI, PostgreSQL |
-| 🗂️ Software de Gestión | Sistema de gestión desarrollado durante mis prácticas universitarias | *(agrega tu stack)* |
+</div>
 
 ---
 
 ## 🏅 Certificaciones
 
-<a href="https://www.hackerrank.com/certificates/50b467d92ddf" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/certificates/1b3811a60017" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/certificates/3a55432b19de" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Java_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/certificates/3e10513da75e" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-React_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
----
-
-## 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eli-plus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-plus&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eli-plus&theme=tokyonight&hide_border=false" />
+| Certificado | Plataforma | Enlace |
+|-------------|------------|--------|
+| SQL (Basic) | HackerRank | [Ver ↗](https://www.hackerrank.com/certificates/50b467d92ddf) |
+| Python (Basic) | HackerRank | [Ver ↗](https://www.hackerrank.com/certificates/1b3811a60017) |
+| Java (Basic) | HackerRank | [Ver ↗](https://www.hackerrank.com/certificates/3a55432b19de) |
+| React (Basic) | HackerRank | [Ver ↗](https://www.hackerrank.com/certificates/3e10513da75e) |
+
 </div>
 
 ---

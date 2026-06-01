@@ -30,6 +30,8 @@ I'm passionate about building meaningful software and always looking for opportu
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,55 +58,21 @@ I'm passionate about building meaningful software and always looking for opportu
 ![Agile](https://img.shields.io/badge/Agile-Scrum-009FDA?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-Testing-green?style=for-the-badge)
 
----
-
-## 🚀 Currently Working On
-
-| Area | Status |
-|------|--------|
-| 💼 QA Engineer & Junior Developer @ EzPraxis | 🟢 Active |
-| 📊 Data Analysis profile & projects | 🔄 In progress |
-| 🤖 LLM & AI applications | 🔄 In progress |
-
----
-
-## 📂 Featured Projects
-
-> *(Pin your best repositories and describe them briefly here)*
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏥 Healthcare Microservices | Microservice-based architecture for healthcare systems (Thesis) | Python, FastAPI, PostgreSQL |
-| 🗂️ Management Software | Management system developed during university internship | *(add your stack)* |
+</div>
 
 ---
 
 ## 🏅 Certifications
 
-<a href="https://www.hackerrank.com/certificates/50b467d92ddf" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/certificates/1b3811a60017" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/certificates/3a55432b19de" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Java_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/certificates/3e10513da75e" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-React_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eli-plus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-plus&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eli-plus&theme=tokyonight&hide_border=false" />
+| Certificate | Issuer | Link |
+|-------------|--------|------|
+| SQL (Basic) | HackerRank | [View ↗](https://www.hackerrank.com/certificates/50b467d92ddf) |
+| Python (Basic) | HackerRank | [View ↗](https://www.hackerrank.com/certificates/1b3811a60017) |
+| Java (Basic) | HackerRank | [View ↗](https://www.hackerrank.com/certificates/3a55432b19de) |
+| React (Basic) | HackerRank | [View ↗](https://www.hackerrank.com/certificates/3e10513da75e) |
+
 </div>
 
 ---
